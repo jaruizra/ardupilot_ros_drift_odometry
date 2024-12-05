@@ -1,0 +1,5 @@
+  File "/home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection/orb_node_test.py", line 139
+    self.save_ply(points_3d, keypoints_path
+                 ^
+SyntaxError: '(' was never closed
+

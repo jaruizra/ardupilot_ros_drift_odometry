@@ -1,0 +1,4 @@
+[console_scripts]
+image_publisher_node = yolo_detection.image_publisher_node:main
+yolo_node = yolo_detection.swift_detect:main
+

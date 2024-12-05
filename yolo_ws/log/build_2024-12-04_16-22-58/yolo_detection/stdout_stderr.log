@@ -1,0 +1,26 @@
+running egg_info
+writing ../../build/yolo_detection/yolo_detection.egg-info/PKG-INFO
+writing dependency_links to ../../build/yolo_detection/yolo_detection.egg-info/dependency_links.txt
+writing entry points to ../../build/yolo_detection/yolo_detection.egg-info/entry_points.txt
+writing requirements to ../../build/yolo_detection/yolo_detection.egg-info/requires.txt
+writing top-level names to ../../build/yolo_detection/yolo_detection.egg-info/top_level.txt
+reading manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+writing manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+running build
+running build_py
+copying yolo_detection/orb_node.py -> /home/rura/yolo_ws/build/yolo_detection/build/lib/yolo_detection
+copying yolo_detection/orb_node_newmethod.py -> /home/rura/yolo_ws/build/yolo_detection/build/lib/yolo_detection
+running install
+running install_lib
+copying /home/rura/yolo_ws/build/yolo_detection/build/lib/yolo_detection/orb_node.py -> /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection
+copying /home/rura/yolo_ws/build/yolo_detection/build/lib/yolo_detection/orb_node_newmethod.py -> /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection
+byte-compiling /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection/orb_node.py to orb_node.cpython-310.pyc
+byte-compiling /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection/orb_node_newmethod.py to orb_node_newmethod.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/yolo_detection/yolo_detection.egg-info to /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection-0.0.0-py3.10.egg-info
+running install_scripts
+Installing image_publisher_node script to /home/rura/yolo_ws/install/yolo_detection/lib/yolo_detection
+Installing yolo_node script to /home/rura/yolo_ws/install/yolo_detection/lib/yolo_detection
+writing list of installed files to '/home/rura/yolo_ws/build/yolo_detection/install.log'

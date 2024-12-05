@@ -1,0 +1,25 @@
+[0.388s] Invoking command in '/home/rura/yolo_ws/src/yolo_detection': PYTHONPATH=/home/rura/yolo_ws/build/yolo_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detection build --build-base /home/rura/yolo_ws/build/yolo_detection/build install --record /home/rura/yolo_ws/build/yolo_detection/install.log --single-version-externally-managed install_data
+[0.518s] running egg_info
+[0.518s] writing ../../build/yolo_detection/yolo_detection.egg-info/PKG-INFO
+[0.519s] writing dependency_links to ../../build/yolo_detection/yolo_detection.egg-info/dependency_links.txt
+[0.519s] writing entry points to ../../build/yolo_detection/yolo_detection.egg-info/entry_points.txt
+[0.519s] writing requirements to ../../build/yolo_detection/yolo_detection.egg-info/requires.txt
+[0.519s] writing top-level names to ../../build/yolo_detection/yolo_detection.egg-info/top_level.txt
+[0.520s] reading manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[0.521s] writing manifest file '../../build/yolo_detection/yolo_detection.egg-info/SOURCES.txt'
+[0.521s] running build
+[0.521s] running build_py
+[0.521s] copying yolo_detection/swift.py -> /home/rura/yolo_ws/build/yolo_detection/build/lib/yolo_detection
+[0.522s] running install
+[0.522s] running install_lib
+[0.522s] copying /home/rura/yolo_ws/build/yolo_detection/build/lib/yolo_detection/swift.py -> /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection
+[0.522s] byte-compiling /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection/swift.py to swift.cpython-310.pyc
+[0.523s] running install_data
+[0.523s] running install_egg_info
+[0.524s] removing '/home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection-0.0.0-py3.10.egg-info' (and everything under it)
+[0.525s] Copying ../../build/yolo_detection/yolo_detection.egg-info to /home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages/yolo_detection-0.0.0-py3.10.egg-info
+[0.525s] running install_scripts
+[0.537s] Installing image_publisher_node script to /home/rura/yolo_ws/install/yolo_detection/lib/yolo_detection
+[0.537s] Installing yolo_node script to /home/rura/yolo_ws/install/yolo_detection/lib/yolo_detection
+[0.538s] writing list of installed files to '/home/rura/yolo_ws/build/yolo_detection/install.log'
+[0.551s] Invoked command in '/home/rura/yolo_ws/src/yolo_detection' returned '0': PYTHONPATH=/home/rura/yolo_ws/build/yolo_detection/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/rura/yolo_ws/install/yolo_detection/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/yolo_detection build --build-base /home/rura/yolo_ws/build/yolo_detection/build install --record /home/rura/yolo_ws/build/yolo_detection/install.log --single-version-externally-managed install_data

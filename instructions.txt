@@ -1,0 +1,12 @@
+ros2 run yolo_detection yolo_node --ros-args --param image_path:='/home/rura/image1.jpg'
+
+source install/setup.bash
+
+cd ~/yolo_ws
+colcon build
+source install/setup.bash
+
+ros2 run yolo_detection drone_motion_node
+
+# nodo de envio de imagenes
+ros2 run yolo_detection image_publisher_node --ros-args --param image_folder:="/home/rura/images"
