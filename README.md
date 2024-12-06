@@ -1,4 +1,5 @@
 # ROS Visual Odometry
+![1_sift](https://github.com/user-attachments/assets/9df4b00d-56ba-4ce8-b943-129a1e555356)
 
 ## Overview
 This project implements visual odometry using ROS (Robot Operating System). Visual odometry determines the position and orientation of a robot by analyzing input from its camera sensors. This enables the robot to navigate and understand its environment without relying on external systems like GPS.
